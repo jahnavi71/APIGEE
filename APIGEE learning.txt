@@ -1,0 +1,60 @@
+APIGEE Training ---> Day 1
+
+1. Why APIGEE?
+
+Any kind of domain (Telecom , automotive) with a legacy application which needs new features to cope with the new trends like
+(geo maps, voice ordering) to integrate them to our application we need a UX which layers between both the ends.
+
+We can manage to scale up to a hybrid or multicloud environment.
+
+2. What is APIGEE?
+
+Started by google in 2008,Google offers two types of APIGEE on-premise and APIGEE edge.
+Infrastructure, environment,....etc. will be taken care by GCP support team in APIGEE.
+
+Now APIGEE edge is no longer available
+Google now provides APIGEE x and APIGEE cloud services
+APIGEE x - > Runtime plain , Management plain.
+
+Policies -> APIGEE assign message ,quota ...etc
+
+
+APIGEE training --> day 2
+
+1. what are API proxies?
+
+
+2. common proxy types 
+
+	internet to internet conn
+	inbound conn
+3.	
+	quota
+	spike arrest
+	lookup cache
+	populate cache
+	security- verify api key , access conttol , oauth re2.0, cors
+	mediation - racise fault, assign message, extract variable,Key value map operations(kvm), xml to json
+	extension - javascript , service callout, flow callout , message logging
+
+
+4. assign message policy - <add> - similar to create and append
+			    <set> - insert and update
+
+APIGEE training --> day 3
+
+Cassandra 
+zoo keeper
+message router
+
+
+XML to JSON
+
+
+
+
+
+
+	
+
+	
